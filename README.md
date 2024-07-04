@@ -2,6 +2,8 @@
 
 ![Sergio Díez de Pedro](https://i.postimg.cc/QMZWNwyJ/hero.jpg)
 
+----
+
 - 🖌️ Designer. 🖥️ Web Designer
 - 📐 Layout & CSS Master
 - 📝 UX/UI Experiences
