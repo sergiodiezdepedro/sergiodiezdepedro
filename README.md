@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello!, I'm [Sergio Díez de Pedro](https://sdp-curriculo.netlify.app/) 👋
 
 <!--
 **sergiodiezdepedro/sergiodiezdepedro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
