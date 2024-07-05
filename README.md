@@ -12,4 +12,4 @@
 
 ----
 ## Tech
-![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3) ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass) ![Pug](https://img.shields.io/badge/PUG-black?style=for-the-badge&logo=pug) [Figma](https://img.shields.io/badge/PUG-black?style=for-the-badge&logo=figma)
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3) ![SCSS](https://img.shields.io/badge/SCSS-black?style=for-the-badge&logo=sass) ![Pug](https://img.shields.io/badge/PUG-black?style=for-the-badge&logo=pug) ![Figma](https://img.shields.io/badge/PUG-black?style=for-the-badge&logo=figma)
