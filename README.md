@@ -10,3 +10,6 @@
 - 📐 Layout & CSS Master
 - 📝 UX/UI Experiences
 
+----
+## Technologies
+![HTML](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3)
