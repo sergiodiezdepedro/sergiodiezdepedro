@@ -1,4 +1,4 @@
-## Hello! I'm [Sergio Díez de Pedro](https://sdp-curriculo.netlify.app/) 🧔🏻‍♂️
+## Hello! I'm <u>[Sergio Díez de Pedro](https://sdp-curriculo.netlify.app/)</u> 🧔🏻‍♂️
 
 -----
 
