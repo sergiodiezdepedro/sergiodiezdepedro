@@ -10,6 +10,7 @@
 - 📐 Layout & CSS Master
 - 📝 UX/UI Experiences
 - 🎲 Board Games Nerd
+- 🩷 Command Line
 
 ----
 ## Tech
